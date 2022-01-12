@@ -10,6 +10,7 @@ const personalMovieDB = {
   privat: false
 };
 
+
 const a = prompt('Один из просмотренных фильмов', ''),
       b = prompt('На сколько оцените его', ''),
       c = prompt('Один из просмотренных фильмов', ''),
